@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    /* background-color: blue; */
+}
+
+.flex{
+   display: flex; 
+}
+.pragraph-style{
+    font-size: 17px;
+    line-height: 29px;
+    font-weight: bold;
+    color: #3E3E3E;
+}
+.bottom{
+    margin-bottom: 50px;
+}
+.h1-tag{
+    font-size: 45px;
+    font-weight: bold;
+}
+.radius{
+    border-radius: 20px;
+}
+.center{
+    text-align: center;
+}
+/* frist -contant add athars info */
+.contant-image{
+    width: 45%;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.stay{
+    padding-left: 12px;
+    border-left: 4px solid tomato;
+}
+.stay h1{
+    margin-top: 83px;
+}
+.color{
+    color: #FFAD5A;
+}
+/* .pra{
+    margin-bottom: 50px;
+} */
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px;
+    font-size: 24px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+.scroll-pra{
+    margin-top: 40px;
+}
+/* image infomation add */
+.contant-image img{
+    width: 85%;
+    margin-top: 60px;
+}
+/* secend infomation add to css style */
+.mission{
+    text-align: center;
+}
+.image-style{
+    width: 150px;
+    height: 150px;
+}
+.three-slice-1{
+    background-color: #EDF5F6;
+    width: 30%;
+    padding: 2%;
+    float: left;
+}
+.three-slice-2{
+    background-color: #FFEEEE;
+    width: 30%;
+    padding: 2%;
+    float: left;
+    margin-left: 2%;
+}
+.box-style{
+    padding: 20px 67px;
+}
+.three-slice-3{
+    background-color: #FFF4D6;
+    width: 30%;
+    margin-left: 2%;
+    padding: 2%;
+}
+/* three section add and style */
+.develop-area{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+}
+.develop{
+    margin-top: 40px;
+    padding: 0px 67px;
+}
+.develop-area img{
+    width: 400px;
+    height: 400px;
+}
+.develop-contant{
+    padding: 0px 43px;
+}
+.develop-contant h1{
+    font-size: 45px;
+    margin-top: 0px;
+}
+/* codding for furth section add and style */
+.community{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 200px 200px;
+    padding: 5%;
+
+}
+
+.contant img{
+    width: 400px;
+    height: 400px;
+}
+.contant-area{
+    padding: 0px 30px;
+}
+/* corona infomation add and style */
+.build-corona h1{
+    line-height: 20px;
+
+}
+.corona-info{
+    background-image: url(images/);
+    padding: 5%;
+}
+.info-img img{
+    width: 400px;
+    height: 600px;
+}
+.info{
+    padding: 0px 100px;
+}
+/* footer style */
+footer{
+    background-color: black;
+}
+.mission-2022 h1{
+    text-align: center;
+    color: white;
+}
+.mission-2022 p{
+    color: white;
+    text-align: center;
+}
+.mission-2022{
+    overflow-y: hidden;
+}
